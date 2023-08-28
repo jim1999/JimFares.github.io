@@ -18,12 +18,12 @@ In this repository, you'll find a collection of data analytics projects that hig
 
 ### Python Projects
 
-- [Project 1: EDA with Python](python-projects/project1)
-- [Project 2: Predictive Modelling](python-projects/project2)
+- [Project 1: Data Cleaning & Transformation with Python](python-projects/project1)
+- [Project 2: EDA with Python](python-projects/project2)
+- [Project 3: Predictive Modelling with Python](python-projects/project3)
 
 ### SQL Projects
 
-- [Project 3: ](sql-projects/project3)
 - [Project 4: ](sql-projects/project4)
 
 ### Power BI Projects
