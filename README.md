@@ -16,25 +16,16 @@ In this repository, you'll find a collection of data analytics projects that hig
 
 ## Projects
 
-### Python Projects
+### Python Projects :snake:, SQL Projects :floppy_disk:, Power BI Projects :bar_chart:, Tableau Projects :art:
 
-- [Project 1: Data Cleaning & Transformation with Python](python-projects/project1)
-- [Project 2: EDA with Python](python-projects/project2)
-- [Project 3: Predictive Modelling with Python](python-projects/project3)
-
-### SQL Projects
-
-- [Project 4: ](sql-projects/project4)
-
-### Power BI Projects
-
-- [Project 5: ](power-bi-projects/project5)
-- [Project 6: ](power-bi-projects/project6)
-
-### Tableau Projects
-
-- [Project 7: ](tableau-projects/project7)
-- [Project 8: ](tableau-projects/project8)
+- [Project 1: Data Cleaning & Transformation using Python](project1)
+- [Project 2: EDA with Python](project2)
+- [Project 3: Predictive Modelling using Python](project3)
+- [Project 4: Data Manipulation with SQL](project4)
+- [Project 5: Interactive Data Visualization](project5)
+- [Project 6: Dashboard Design and Reporting](project6)
+- [Project 7: Visual Analytics using Tableau](project7)
+- [Project 8: Interactive Business Intelligence](project8)
 
 ## Skills
 
@@ -46,7 +37,7 @@ In these projects, I've demonstrated proficiency in the following areas :muscle:
 - Power BI for Interactive Dashboards
 - Tableau for Visual Analytics
 
-## Getting Started
+## Getting Started :rocket:
 
 To explore these projects and see my work in action, follow these steps:
 
@@ -56,8 +47,8 @@ To explore these projects and see my work in action, follow these steps:
 
 Feel free to reach out if you have any questions or feedback! :bulb:
 
-## Contact
+## Contact :email:
 
 If you're interested in learning more about my projects or would like to connect, you can reach me via email at [faresjimmy1@gmail.com](mailto:faresjimmy1@gmail.com) or find me on LinkedIn: [Jimmy Fares](https://www.linkedin.com/in/jimmy-fares-143892153).
 
-Thank you for exploring my data analytics projects portfolio! :rocket: 
+Thank you for exploring my data analytics projects portfolio! :sparkles: 
