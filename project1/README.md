@@ -1,6 +1,6 @@
 # Data Cleaning and Transformation Project: FIFA 21 Players Dataset
 
-Welcome to my Data Cleaning and Transformation project involving the FIFA 21 players dataset! In this project, I tackled the challenge of cleaning and transforming a messy dataset containing information about FIFA 21 players.
+Welcome to my Data Cleaning and Transformation project involving the FIFA 21 players dataset! In this project, I tackled the challenge of cleaning and transforming a messy dataset containing information about FIFA 21 players. The dataset was found on [Kaggle](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring) and credits to Rachit Toshniwal for sharing it.
 
 ## Project Overview
 
