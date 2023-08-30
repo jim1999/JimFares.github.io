@@ -39,11 +39,7 @@ In these projects, I've demonstrated proficiency in the following areas :muscle:
 
 ## Getting Started :rocket:
 
-To explore these projects and see my work in action, follow these steps:
-
-1. Clone this repository to your local machine using `git clone https://github.com/JimFares/JimFares.github.io`.
-2. Navigate to the project folders of your choice (e.g., `python-projects`, `sql-projects`, etc.).
-3. Each project folder contains detailed documentation and code files to help you understand and replicate the analysis.
+Do not hesitate to explore my projects and see my work in action. Each project folder contains detailed documentation and code files to help you understand and replicate the analysis.
 
 Feel free to reach out if you have any questions or feedback! :bulb:
 
