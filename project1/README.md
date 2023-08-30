@@ -20,7 +20,7 @@ Welcome to my Data Cleaning and Transformation project involving the FIFA 21 pla
 
 7. **Feature Engineering:** I created new features from existing ones to enhance the dataset's utility, making it more suitable for analysis.
 
-8. **Data Visualization:** I used data visualization techniques to gain insights into the data after the cleaning and transformation process.
+8. **Data Visualization:** I used data visualization techniques to gain insights into the data and identifiying possible outliers.
 
 ## Project Outcome
 
