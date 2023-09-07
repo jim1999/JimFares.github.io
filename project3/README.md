@@ -10,13 +10,19 @@ Welcome to the College Football Outcome Prediction project! The primary objectiv
 
 In this repository, you will find:
 
-1. **Data:** This folder contains a dataset pertaining the 2016, 2017 and 2018 NCAA season used for training and testing the prediction model, as well as the 2019 season dataset used to test the model even further. These datasets include historical college football game data, which serves as the foundation for our predictive analysis and provide to us a better understanding of how well our model really is.
+1. **Data:** This folder contains a dataset pertaining the 2016, 2017 and 2018 NCAA season used for training and testing the prediction model, as well as the 2019 season dataset used to test the model even further. These datasets include historical college football game data, which serves as the foundation for our predictive analysis and provide to us a better understanding of how well our model really is. The data was organized to use a single row to hold all the information from a single game including the information pertaining to both teams playing in the game. The key variables that were analyzed can be split into two categories: Game Information and Betting Information.
 
-2. **Code:** While the specific model implementation is kept confidential, you will find code snippets and scripts related to data preprocessing, feature engineering, and model evaluation, and model tuning. This repository provides insights into parts of the data science pipeline and methodology used to create the predictive model.
+2. **Code:** While the specific model implementation is kept confidential, you will find code snippets and scripts related to model creation (CART and Random Forests), model evaluation and model tuning. This repository provides insights into parts of the data science pipeline and methodology used to create the predictive model. Steps pertaining data preprocessing, feature engineering and EDA were previously done, and the features in the dataset were assessed in order to select the ones that should be used in the model.
 
 3. **Results:** Within this folder, you will discover summary reports, charts, and insights derived from the model's predictions. These results help us assess the model's accuracy and its potential for profitable outcomes.
 
 4. **Documentation:** Detailed documentation and explanations of the project's objectives, methodologies, and findings can be found here. This section provides transparency about the project's approach and outcomes.
+
+## Methods
+
+In this section, I will quickly explain the methods used for this project. Two main methods were used to construct our final model. 
+
+First, we created a probability prediction model, which calculates the percent chance that each side of the bet wins for every game. The probability prediction model is divided into three sub-parts: evaluating the necessary features for each betting model, training the model using CART as well as improving the findings with Random Forest, and optimizing the model’s accuracy using cross-validation. Second, we created an optimization model that aims to maximize expected profit by indicating which games to place bets on. The optimization model makes sure any bet it recommends to be placed conforms to the following three constraints: the expected profit of the bet is positive, both sides of the same type of bet are not being recommended, and the variance of the bet’s probability of success from the Random Forest is under the set threshold.
 
 
 ## Contribution and Collaboration
