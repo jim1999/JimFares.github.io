@@ -24,12 +24,21 @@ In this section, I will quickly explain the methods used for this project. Two m
 
 First, we created a probability prediction model, which calculates the percent chance that each side of the bet wins for every game. The probability prediction model is divided into three sub-parts: evaluating the necessary features for each betting model, training the model using CART as well as improving the findings with Random Forest, and optimizing the model’s accuracy using cross-validation. Second, we created an optimization model that aims to maximize expected profit by indicating which games to place bets on. The optimization model makes sure any bet it recommends to be placed conforms to the following three constraints: the expected profit of the bet is positive, both sides of the same type of bet are not being recommended, and the variance of the bet’s probability of success from the Random Forest is under the set threshold.
 
+## Future Steps
 
-## Contribution and Collaboration
+Overall, we were able to successfully create a system that can accurately forecast the results of future college football games, i.e. predicting the point spread. This predictive capability has the potential to inform profitable wagering decisions. Our next step would be to test it on more datasets (i.e. 2020, 2021, 2022 and even the ongoing 2023 seasons) to see how well the model continues to perform, and get a stronger sense of its capabilities. We can also try it on different sports and see how we can improve it.
 
-This project was a collaborative effort, and we believe in the power of open collaboration and data-driven insights. While we cannot share the specific model details, we welcome discussions, questions, and collaborations related to college football prediction and data analysis.
+## Getting Started
 
-If you're interested in contributing, discussing, or collaborating, please reach out to me.
+To delve into the details of this project, including code snippets, visualizations, and insights, please refer to the [Jupyter Notebook](NCAA_Predict_Spread.ipynb).
+
+Feel free to reach out if you have questions or feedback about this project!
+
+## Contact Information
+
+If you'd like to get in touch, you can reach me at [faresjimmy1@gmail.com](mailto:faresjimmy1@gmail.com).
+
+Thank you for exploring the college football outcome prediction project!
 
 ## Disclaimer
 
