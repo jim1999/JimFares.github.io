@@ -75,5 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - The Sakila sample database is provided by MySQL and can be accessed at [Sakila DB](https://dev.mysql.com/doc/sakila/en/).
-
-Happy data analysis!
