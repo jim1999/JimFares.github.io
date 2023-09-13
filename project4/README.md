@@ -26,7 +26,7 @@ This repository contains a series of SQL data analysis projects based on the Sak
   
 6. **Calculate Total Payment Amount per Customer (Ordered by Total Amount, Descending)**
    - Description: Calculate the total payment amount made by each customer and orders the results by the total amount in descending order.
-   - SQL Query: [total_pay_per customer.sql](total_pay_per customer.sql)
+   - SQL Query: [total_pay_per_customer.sql](total_pay_per_customer.sql)
   
 7. **Top 5 Films with the Highest Inventory Counts**
    - Description: List the top 5 films with the highest inventory counts.
