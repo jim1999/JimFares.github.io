@@ -16,7 +16,7 @@ In this repository, you'll find a collection of data analytics projects that hig
 
 ## Projects
 
-### Python Projects :snake:, SQL Projects :floppy_disk:, Power BI Projects :bar_chart:, Tableau Projects :art:
+### Python Projects :snake:, SQL Projects :floppy_disk:, Power BI Projects :bar_chart:
 
 - [Project 1: Data Cleaning & Transformation using Python](project1)
 - [Project 2: EDA with Python](project2)
