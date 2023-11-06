@@ -22,10 +22,8 @@ In this repository, you'll find a collection of data analytics projects that hig
 - [Project 2: EDA with Python](project2)
 - [Project 3: Predictive Modelling using Python](project3)
 - [Project 4: Data Manipulation with SQL](project4)
-- [Project 5: Interactive Data Visualization](project5)
-- [Project 6: Dashboard Design and Reporting](project6)
-- [Project 7: Visual Analytics using Tableau](project7)
-- [Project 8: Interactive Business Intelligence](project8)
+- [Project 5: Dashboard Design and Interactive Data Visualization](project5)
+
 
 ## Skills
 
