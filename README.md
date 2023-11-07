@@ -32,8 +32,7 @@ In these projects, I've demonstrated proficiency in the following areas :muscle:
 - Data Analysis and Visualization
 - Python Programming
 - SQL Querying and Database Management
-- Power BI for Interactive Dashboards
-- Tableau for Visual Analytics
+- Power BI for Interactive Dashboards and Visual Analytics
 
 ## Getting Started :rocket:
 
