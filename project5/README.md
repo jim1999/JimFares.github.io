@@ -12,4 +12,4 @@ The GOC Travel Expenses Dashboard is a data visualization project aimed at provi
 - **Insightful Storytelling:** The visualizations are crafted to tell a compelling story about political spending, highlighting trends and disparities.
 
 ## Access to Report
-The cloud version of the dashboard can be accessed [here](url).
+The dashboard can be viewed by downloading the pdf version ([GOC_Travel_Expenses.pdf](GOC_Travel_Expenses.pdf)) or downloading the actual pbix file ([GOC_Travel_Expenses.pbix](GOC_Travel_Expenses.pbix)).
