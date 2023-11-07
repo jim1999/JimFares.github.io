@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio! :wave: This repository contains examples of my data analytics projects showcasing my skills in Python, SQL, Power BI. 
+Welcome to my Data Analytics Portfolio! :wave: This repository contains examples of my data analytics projects showcasing my skills in Python, SQL and Power BI. 
 
 ## Table of Contents
 
